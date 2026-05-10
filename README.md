@@ -34,7 +34,7 @@
 ## 安装
 
 ```bash
-cp -r wanweigang-perspective ~/.claude/skills/
+skillhub install https://github.com/ncsbymtzkk-cloud/wanweigang-perspective
 ```
 
 ## 调研数据
